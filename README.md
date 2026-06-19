@@ -12,4 +12,4 @@
      `pip install -r requirements.txt`
 ## Usage
   Run the python script and enjoy MSSS
-    `python mc_check.py <TARGET-IP>`
+    `python mc_check.py`
