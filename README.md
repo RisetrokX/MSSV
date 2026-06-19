@@ -8,6 +8,8 @@
     `git clone github.com/RisetrokX/MSSS.git`
   2. Change directory to this repo
     `cd MSSS`
+  3. Install requirements
+     `pip install -r requirements.txt`
 ## Usage
   Run the python script and enjoy MSSS
     `python mc_check.py <TARGET-IP>`
