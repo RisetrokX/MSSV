@@ -13,3 +13,5 @@
 ## Usage
   Run the python script and enjoy MSSS
     `python mc_check.py`
+## Why use?
+  You can use it if you don't want to open minecraft and just want servers status
