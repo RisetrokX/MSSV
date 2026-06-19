@@ -1,11 +1,11 @@
-# (M)inecraft (S)erver (S)tatus (S)hower ℹ️
- - Shows amount and names of players that are online
+# (M)inecraft (S)erver's (S)tatus (S)hower ℹ️
+ - Shows number and names of players that are online
  - Shows latency (ms)
- - Shows servers version
+ - Shows server's version
 
-## Instalation guide:
+## Installation guide:
   1. Copy this repo
-    `git clone github.com/RisetrokX/MSSS.git`
+    `git clone https://github.com/RisetrokX/MSSS.git`
   2. Change directory to this repo
     `cd MSSS`
   3. Install requirements
@@ -14,4 +14,4 @@
   Run the python script and enjoy MSSS
     `python mc_check.py`
 ## Why use?
-  You can use it if you don't want to open minecraft and just want to see servers status
+  You can use it if you don't want to open Minecraft and just want to see server's status
