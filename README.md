@@ -1,5 +1,5 @@
 # (M)inecraft (S)erver (S)tatus (S)hower ℹ️
- - Shows players that are online
+ - Shows amount and names of players that are online
  - Shows latency (ms)
  - Shows servers version
 
