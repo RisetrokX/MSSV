@@ -1,4 +1,4 @@
-# (M)inecraft (S)erver's (S)tatus (S)hower ℹ️
+# (M)inecraft (S)erver's (S)tatus (V)iewer ℹ️
  - Shows number and names of players that are online
  - Shows latency (ms)
  - Shows server's version
